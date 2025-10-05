@@ -1,1 +1,2 @@
-"# ComputerVision_1" 
+# ComputerVision_1
+# Жора Олександр ФІ-41
